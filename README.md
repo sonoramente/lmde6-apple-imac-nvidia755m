@@ -1,5 +1,8 @@
 # lmde6-apple-imac-nvidia755m
 
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+
+
 This repository documents a **tested, working installation of Linux Mint Debian Edition 6 (LMDE 6)** on an **Apple iMac** equipped with an **Intel i5 CPU and NVIDIA GeForce GT 755M GPU**.
 
 The goal of this project is to provide **repeatable, documented steps** and configuration notes for running LMDE 6 reliably on this Apple hardware.
@@ -48,3 +51,6 @@ The goal of this project is to provide **repeatable, documented steps** and conf
 ├── logs/           # Relevant dmesg / system logs
 └── README.md
 
+## Releases
+
+- **lmde6-stable-755m** — Verified stable configuration

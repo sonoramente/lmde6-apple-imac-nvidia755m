@@ -1,0 +1,1 @@
+broadcom-sta/6.30.223.271, 6.1.0-12-amd64, x86_64: installed

@@ -1,0 +1,4 @@
+Distributor ID:	Linuxmint
+Description:	LMDE 6 (faye)
+Release:	6
+Codename:	faye

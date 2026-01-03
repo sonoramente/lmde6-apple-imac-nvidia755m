@@ -1,0 +1,12 @@
+nouveau              2433024  16
+mxm_wmi                16384  1 nouveau
+i2c_algo_bit           16384  1 nouveau
+drm_display_helper    184320  1 nouveau
+cec                    61440  1 drm_display_helper
+drm_ttm_helper         16384  1 nouveau
+ttm                    94208  2 drm_ttm_helper,nouveau
+drm_kms_helper        204800  2 drm_display_helper,nouveau
+drm                   614400  11 drm_kms_helper,drm_display_helper,drm_ttm_helper,ttm,nouveau
+video                  65536  1 nouveau
+wmi                    36864  3 video,mxm_wmi,nouveau
+button                 24576  1 nouveau

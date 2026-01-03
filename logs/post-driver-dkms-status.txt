@@ -1,0 +1,2 @@
+broadcom-sta/6.30.223.271, 6.1.0-12-amd64, x86_64: installed
+nvidia-tesla-470/470.256.02, 6.1.0-12-amd64, x86_64: installed

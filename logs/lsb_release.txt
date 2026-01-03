@@ -1,0 +1,4 @@
+Distributor ID:	Linuxmint
+Description:	Linux Mint 21.3
+Release:	21.3
+Codename:	virginia

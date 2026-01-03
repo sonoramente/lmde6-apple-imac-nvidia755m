@@ -1,0 +1,1 @@
+01:00.0 VGA compatible controller [0300]: NVIDIA Corporation GK104M [GeForce GTX 780M Mac Edition] [10de:119e] (rev a1)

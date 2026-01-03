@@ -1,0 +1,21 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor / temp files
+*~
+*.swp
+*.bak
+
+# Logs (keep curated ones only)
+logs/raw/
+*.log
+
+# Large binaries / ISOs
+*.iso
+*.img
+*.qcow2
+*.vdi
+
+# NVIDIA installer leftovers
+NVIDIA-Linux-*.run
